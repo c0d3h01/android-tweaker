@@ -3,7 +3,7 @@
 
  <h1 align="center"><b> Android Tweaker </b></h1> 
 
- <h4 align="center">Android Tweaker (kernel spectrum) module.Optimize your Kernel overall performance and battery backup.</h4>
+*`Android Tweaker (kernel spectrum) module.Optimize your Kernel overall performance and battery backup`*
 
  <a href="https://t.me/AndroidTweaker"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
@@ -29,7 +29,10 @@
 ~> `Extreme Gaming`:
 - *Max out Kernel,CPU and GPU power levels for Maximum performance during gameplay.*
 ------------------------------
-`Compatible`: 
+`How to install`:
+- *Just flash and reboot there no terminal commands to active anything after reboot apk installed automatically change profiles using app*
+
+`Compatible`:
 - *Compatible with all ROMs/kernels/Processors.*
 
 `Any chance of bootloop` ?
