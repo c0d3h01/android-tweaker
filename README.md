@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://t.me/AndroidTweaker"><img src=".img/AndroImg.jpeg" width="500"></a></p> 
+<p align="center"><a href="https://t.me/AndroidTweaker"><img src=".img/AndroImg.jpg" width="500"></a></p> 
 
  <h1 align="center"><b> Android Tweaker </b></h1> 
 
