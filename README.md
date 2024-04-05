@@ -14,7 +14,7 @@
 - *ArmV8 64Bit*
 - *OS 6.0+*
 
-<img src=".img/andro.mp4" alt="Preview" width="500"/>
+<img src=".img/andro.gif" alt="Preview" width="500"/>
 
 ------------------------------
 ~> `Battery Saver`:
