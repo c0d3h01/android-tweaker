@@ -32,5 +32,5 @@
 `Compatible`: 
 - *Compatible with all ROMs/kernels/Processors.*
 
-`Any chanse of bootloop` ?
+`Any chance of bootloop` ?
 - *no bootloop, not possible!*
