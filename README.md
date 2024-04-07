@@ -16,8 +16,7 @@
 *Compatible*:
 - *Compatible with all ROMs/kernels/Processors.*
   
-
-<img src=".img/andro.gif" alt="Preview" width="500"/>
+<p align="center"><a href="https://t.me/AndroidTweaker"><img src=".img/andro.gif" width="500"></a></p> 
 
 ------------------------------
 ~> *Battery Saver*:
