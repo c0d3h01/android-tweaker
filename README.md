@@ -39,9 +39,9 @@ Android Tweaker: Module optimizes Android kernel/RAM for performance/battery bal
 **Any chance of bootloop** ?
 - no bootloop, not possible!
 
-## Credits
+**Credits**
 - Android Tweaker Developer - [Harshal](https://t.me/c0d3h01)
-- Spectrum Devloper - [frap129](frap129)
+- Spectrum Developer - [frap129](https://github.com/frap129)
 - Magisk Developer - [Topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 - MMT-Extended - [Zackptg5](https://forum.xda-developers.com/apps/magisk/magisk-module-template-extended-mmt-ex-t4029819)
 - Unity Template Developers - [Zackptg5 and Ahrion](https://forum.xda-developers.com/android/software/module-audio-modification-library-t3579612)
