@@ -2,9 +2,6 @@
 
  <h1 align="center"><b>Android Tweaker</b></h1> 
 
- **Android Tweaker**
-`( kernel Spectrum )`
-
 **Introducing:** 
 Android Tweaker: Module optimizes Android kernel/RAM for performance/battery balance. User applies recommended settings. Enhances multitasking, memory management, gaming. Extends battery life. Supports EAS/HMP kernels, monolithic/hybrid architectures. Simple optimization solution for Android devices.
 
