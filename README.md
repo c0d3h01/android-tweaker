@@ -13,7 +13,7 @@ Android Tweaker: Module optimizes Android kernel/RAM for performance/battery bal
 - ArmV8 64Bit
 - OS 6.0+
 
-**Compatible**:
+### Compatible:
 - `Compatible with all ROM's,kernels,Processors.`
 
 
