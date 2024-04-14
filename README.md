@@ -3,7 +3,7 @@
  <h1 align="center"><b>Android Tweaker</b></h1> 
 
 ### Introducing:
-Android Tweaker: Module optimizes Android kernel/RAM for performance/battery balance. User applies recommended settings. Enhances multitasking, memory management, gaming. Extends battery life. Supports EAS/HMP kernels, monolithic/hybrid architectures. Simple optimization solution for Android devices.
+Android Tweaker: Module optimizes Android `kernel/RAM for performance/battery balance.` User applies recommended settings. Enhances `multitasking, memory management, gaming.` Extends `battery life`. Supports `EAS/HMP kernels`, monolithic/hybrid architectures. Simple optimization solution for Android devices.
 
  <a href="https://t.me/AndroidTweaker"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
@@ -42,19 +42,3 @@ Android Tweaker: Module optimizes Android kernel/RAM for performance/battery bal
 - Magisk Developer - [Topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 - MMT-Extended - [Zackptg5](https://forum.xda-developers.com/apps/magisk/magisk-module-template-extended-mmt-ex-t4029819)
 - Unity Template Developers - [Zackptg5 and Ahrion](https://forum.xda-developers.com/android/software/module-audio-modification-library-t3579612)
-
-ChangeLogs:
-
-~ version: 1.5.1
-- Reworked on kernel tweaks.
-- Reworked vm tweaks.
-- Reworked i/o tweaks.
-- Rewrorked sleep functions.
-- Reworded Network tweaks.
-- Added gms tweaks.
-- Added fstrim tweaks.
-- Added log cleaner.
-- Add Disable unnecessary services.
-- Add background management tweaks.
-- Add New power management tweaks.
-- Reworked and added may tweaks...
