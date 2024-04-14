@@ -45,7 +45,7 @@ Android Tweaker: Module optimizes Android kernel/RAM for performance/battery bal
 
 ChangeLogs:
 
-<~> version: 1.5.1
+~ version: 1.5.1
 - Reworked on kernel tweaks.
 - Reworked vm tweaks.
 - Reworked i/o tweaks.
@@ -57,4 +57,4 @@ ChangeLogs:
 + Add Disable unnecessary services.
 + Add background management tweaks.
 + Add Disable new tweaks- power management.
-~ Reworked and added may tweaks...
+- Reworked and added may tweaks...
