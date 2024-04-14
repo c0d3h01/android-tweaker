@@ -42,3 +42,19 @@ Android Tweaker: Module optimizes Android kernel/RAM for performance/battery bal
 - Magisk Developer - [Topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 - MMT-Extended - [Zackptg5](https://forum.xda-developers.com/apps/magisk/magisk-module-template-extended-mmt-ex-t4029819)
 - Unity Template Developers - [Zackptg5 and Ahrion](https://forum.xda-developers.com/android/software/module-audio-modification-library-t3579612)
+
+ChangeLogs:
+
+<~> version: 1.5.1
+- Reworked on kernel tweaks.
+- Reworked vm tweaks.
+- Reworked i/o tweaks.
+- Rewrorked sleep functions.
+- Reworded Network tweaks.
++ Added gms tweaks.
++ Added fstrime tweaks.
++ Added log cleaner.
++ Add Disable unnecessary services.
++ Add background management tweaks.
++ Add Disable new tweaks- power management.
+~ Reworked and added may tweaks...
