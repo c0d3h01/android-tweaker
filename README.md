@@ -51,10 +51,10 @@ ChangeLogs:
 - Reworked i/o tweaks.
 - Rewrorked sleep functions.
 - Reworded Network tweaks.
-+ Added gms tweaks.
-+ Added fstrime tweaks.
-+ Added log cleaner.
-+ Add Disable unnecessary services.
-+ Add background management tweaks.
-+ Add Disable new tweaks- power management.
+- Added gms tweaks.
+- Added fstrim tweaks.
+- Added log cleaner.
+- Add Disable unnecessary services.
+- Add background management tweaks.
+- Add New power management tweaks.
 - Reworked and added may tweaks...
