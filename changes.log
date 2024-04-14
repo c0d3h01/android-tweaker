@@ -1,3 +1,13 @@
-version :: 1.5.1
-changelog :: 
-....
+~ version: 1.5.1
+- Reworked on kernel tweaks.
+- Reworked vm tweaks.
+- Reworked i/o tweaks.
+- Rewrorked sleep functions.
+- Reworded Network tweaks.
++ Added gms tweaks.
++ Added fstrime tweaks.
++ Added log cleaner.
++ Add Disable unnecessary services.
++ Add background management tweaks.
++ Add Disable new tweaks- power management.
+- Reworked and added may tweaks...
