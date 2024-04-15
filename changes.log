@@ -1,15 +1,21 @@
 ChangeLogs:
 
-~ version: 1.5.1
-- Reworked on kernel tweaks.
-- Reworked vm tweaks.
-- Reworked i/o tweaks.
-- Rewrorked sleep functions.
-- Reworded Network tweaks.
-- Added gms tweaks.
-- Added fstrim tweaks.
-- Added log cleaner.
-- Add Disable unnecessary services.
-- Add background management tweaks.
-- Add New power management tweaks.
-- Reworked and added may tweaks...
+~ version: 1.5.3
+
+~ Changelogs:
+- Changed wite permission permission.
+- Removed idle extra tweaks.
+- Removed ignorance settings.
+- Added gos disable.
+- Improved fs-trime.
+- improved cleaner.
+- improved network tweaks.
+- improved task.
+- removed unnecessary tweaks.
+- Rewrote idle tweaks.
+- removed tele view after every reboot.
+- Rewrote lease-breaks.
+- implemented CPU overclock in Extreme.
+- implemented Dex optimization.
+- implemented Ram boost in extreme while switching prof.
+- improved I/O Sheduleer tweaks.
