@@ -1,21 +1,12 @@
 ChangeLogs:
 
-~ version: 1.5.3
+~ version: 1.5.5
 
 ~ Changelogs:
-- Changed wite permission permission.
-- Removed idle extra tweaks.
-- Removed ignorance settings.
-- Added gos disable.
-- Improved fs-trime.
-- improved cleaner.
-- improved network tweaks.
-- improved task.
-- removed unnecessary tweaks.
-- Rewrote idle tweaks.
-- removed tele view after every reboot.
-- Rewrote lease-breaks.
-- implemented CPU overclock in Extreme.
-- implemented Dex optimization.
-- implemented Ram boost in extreme while switching prof.
-- improved I/O Sheduleer tweaks.
+- Improved I/O Scheduler Tweaks.
+- Improved GPU tweaks.
+- improved Idle tweaks.
+- Add new prop tweaks.
+- Removed unnecessary tweaks.
+- Removed in-built apk.
+- Added minor changes.
