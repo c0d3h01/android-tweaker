@@ -1,19 +1,10 @@
-~ version: 1.5.7
+~ version: 1.5.8
 
 ~ Changelogs:
-- added ram tweaks.
-- added sync for execution.
-- added new sched tweaks.
-- added i/o read,write tweaks.
-- added zram tweaks.
-- added enable idle to all.
-- added sleep mode management.
-- added Blkio tweaks.
-- improved soc management.
-- Improved I/O Scheduler Tweaks.
-- improved logs cleaner.
-- improved network tweaks.
-- fixed minor bug GPU tweaks.
-- reworked on Uclamp tweaks.
-- added kill unnecessary services.
-- added many miscellaneous changes.
+- bash permission fixed.
+- removed network tweaks.
+- rewrote CPU tweaks.
+- add idle service.
+- fixed synchronisation.
+- rewrote i/o tweaks.
+- added more minor changes.
