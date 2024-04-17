@@ -1,12 +1,19 @@
-ChangeLogs:
-
-~ version: 1.5.5
+~ version: 1.5.7
 
 ~ Changelogs:
+- added ram tweaks.
+- added sync for execution.
+- added new sched tweaks.
+- added i/o read,write tweaks.
+- added zram tweaks.
+- added enable idle to all.
+- added sleep mode management.
+- added Blkio tweaks.
+- improved soc management.
 - Improved I/O Scheduler Tweaks.
-- Improved GPU tweaks.
-- improved Idle tweaks.
-- Add new prop tweaks.
-- Removed unnecessary tweaks.
-- Removed in-built apk.
-- Added minor changes.
+- improved logs cleaner.
+- improved network tweaks.
+- fixed minor bug GPU tweaks.
+- reworked on Uclamp tweaks.
+- added kill unnecessary services.
+- added many miscellaneous changes.
