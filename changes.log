@@ -1,10 +1,10 @@
-~ version: 1.5.8
+~ version:2.1.0
 
-~ Changelogs:
-- bash permission fixed.
-- removed network tweaks.
-- rewrote CPU tweaks.
-- add idle service.
-- fixed synchronisation.
-- rewrote i/o tweaks.
-- added more minor changes.
+~ Changelogs: 
+- improved VM tweaks.
+- improved FS tweaks.
+- improved I/O tweaks.
+- improved Scheduler features.
+- improved kernel tweaks.
+- improved CPU input boost
+- improved CPU caf Boost
