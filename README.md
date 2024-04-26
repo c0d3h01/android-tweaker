@@ -47,8 +47,6 @@ Compatible with all ROMs, kernels, and processors.
 
 ## Installation
 
-<img align="right" src="https://user-images.githubusercontent.com/c0d3h01/AndroidTweaker/installation.gif" alt="Installation" width="300">
-
 1. Flash the module via Magisk.
 2. Reboot your device.
 
