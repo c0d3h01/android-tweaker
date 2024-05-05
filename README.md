@@ -58,6 +58,8 @@ No risk of bootloop!
 ## Credits
 
 - **Android Tweaker Developer**: [Harshal](https://t.me/c0d3h01)
+- **Tweak Source by raiden tweaks**: [Raiden]
+(https://github.com/raidenkkj)
 - **Spectrum Source**: [frap129](https://github.com/frap129)
 - **Magisk Developer**: [Topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 - **MMT-Extended**: [Zackptg5](https://forum.xda-developers.com/apps/magisk/magisk-module-template-extended-mmt-ex-t4029819)
