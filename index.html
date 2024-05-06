@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content= "width=device-width, user-scalable=no">    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    
+
+    <title>atweakwer</title>
+    <style>
+        html {
+            touch-action: manipulation;
+            -ms-touch-action: manipulation;
+        }
+        body {
+            display: grid;
+            background-color: rgb(10, 10, 10);
+            color: rgb(200, 208, 214);
+            user-select: none;
+            text-align: center;
+        }
+        .md_ttl {
+            width: 200px;
+            margin: 20px auto;
+            padding: 8px;
+            background-color: rgba(45, 46, 48, 0.185);
+            border-radius: 20px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+        }
+        .md_ttl:hover {
+            background-color: rgba(75, 76, 78, 0.185);
+            transform: scale(1.01);
+        }
+        .md_ttl i {
+            float: left; 
+            margin-right: 5px; 
+        }
+        .md_ttl a {
+            float: right; 
+            margin-right: 5px;
+            color: rgb(150, 150, 150);
+        }
+        span {
+            font-family: "Montserrat", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-style:normal;
+        }
+        footer {
+            font-family: "Montserrat", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-style:normal;
+            font-size: small;
+            opacity: 0.5;
+            position: fixed; 
+            left: 0; 
+            bottom: 20px;
+            width: 100%;
+        }
+
+
+        .version {
+            font-size: 0.4em;
+            color: rgb(150, 150, 150);
+            margin-top: -1px;
+            display: block;
+            font-family: monospace;
+        }
+        
+    </style>
+</head>
+<body>
+    <div id="atweaker_titleId" class="md_ttl">
+        <h1>atweakwer <span class="version">v2.1.5</span></h1>
+    </div>
+    
+    <div id="download_titleId" class="md_ttl" style="text-align: center;">
+        <span >
+            <i class="fa fa-download"></i>
+            <i style="margin-left: 8px; text-align: left; font-style: normal;">Download</i>
+            <a class="fa fa-arrow-right"></a>
+        </span>
+    </div>
+    <div id="Instagram_titleId" class="md_ttl" style="margin-top: -10px; text-align: center;">
+        <span >
+            <i class="fab fa-instagram"></i> 
+            <i style="margin-left: 8px; text-align: left; font-style: normal;">Instagram</i>
+            <a class="fa fa-arrow-right"></a>
+        </span>
+    </div>
+    <div id="Telegram_titleId" class="md_ttl" style="margin-top: -10px; text-align: center;">
+        <span >
+            <i class="fab fa-telegram"></i>
+            <i style="margin-left: 8px; text-align: left; font-style: normal;">Telegram</i>
+            <a class="fa fa-arrow-right"></a>
+        </span>
+    </div>
+
+    <div id="Github_titleId" class="md_ttl" style="margin-top: -10px; text-align: center;">
+        <span >
+            <i class="fab fa-github"></i> 
+            <i style="margin-left: 8px; text-align: left; font-style: normal;">Github</i>
+            <a class="fa fa-arrow-right"></a>
+        </span>
+    </div>
+    
+    <footer>c0d3h01</footer>
+<script>
+    let atweaker_titleId = document.getElementById("atweaker_titleId");
+    let download_titleId = document.getElementById("download_titleId");
+    let Telegram_titleId = document.getElementById("Telegram_titleId");
+    let Instagram_titleId = document.getElementById("Instagram_titleId");
+    let Github_titleId = document.getElementById("Github_titleId");
+
+    atweaker_titleId.addEventListener("click", function() {
+        window.location = "https://github.com/C0d3h01/AndroidTweaker";
+    });
+    
+    download_titleId.addEventListener("click", function() {
+        window.location = "https://github.com/C0d3h01/AndroidTweaker/releases";
+    });
+    
+    Telegram_titleId.addEventListener("click", function() {
+        window.location = "https://t.me/c0d3h01";
+    });
+    
+    Instagram_titleId.addEventListener("click", function() {
+        window.location = "https://instagram.com/haaarshall";
+    });
+    
+    Github_titleId.addEventListener("click", function() {
+        window.location = "https://github.com/c0d3h01";
+    });
+
+
+</script>
+</body>
+</html>
