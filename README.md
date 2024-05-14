@@ -86,3 +86,9 @@ No risk of any bootloop, bricks!
 <p align="center">
   Made with ❤️ for the Android community, Give start to repo if you like my project.
 </p>
+
+```bash
+MIT License
+
+Copyright (c) 2024 #!/Harsh.
+```
