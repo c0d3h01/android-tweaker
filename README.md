@@ -78,8 +78,6 @@ No risk of any bootloop, bricks!
 - **Android Tweaker Developer**: [c0d3h01](https://t.me/c0d3h01)
 - **Spectrum Source**: [frap129](https://github.com/frap129)
 - **Magisk Developer**: [Topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
-- **MMT-Extended**: [Zackptg5](https://forum.xda-developers.com/apps/magisk/magisk-module-template-extended-mmt-ex-t4029819)
-- **Unity Template Developers**: [Zackptg5 and Ahrion](https://forum.xda-developers.com/android/software/module-audio-modification-library-t3579612)
 
 ---
 
