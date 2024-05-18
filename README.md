@@ -1,8 +1,3 @@
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1500&height=75&duration=2900&lines=Hellow!;Welcome+to+Andorid+tweaker+repo;If+you+like+give+star+to+repo" />
-</h1>
-
 <p align="center">
   <a href="https://t.me/AndroidTweaker">
     <img src="https://github.com/C0d3h01/AndroidTweaker/blob/master/.img/android.jpg" alt="Android Tweaker" width="200">
