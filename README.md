@@ -28,23 +28,6 @@
 
 Android Tweaker is a powerful module that optimizes your Android device's kernel and RAM for a perfect balance between performance and battery life. Users can apply recommended settings to enhance multitasking, memory management, and gaming experience while extending battery life. The module supports EAS/HMP kernels, monolithic/hybrid architectures, and provides a simple optimization solution for all Android devices.
 
-## Features: ↓
-- **Battery**:
-
-  > Optimize battery life by reducing power usage and enhancing energy efficiency.
-
-- **Balanced**:
-
-  > Achieve the perfect balance between battery life and performance for seamless daily tasks.
-
-- **Ultra**:
-
-  > Enhance your device's performance while conserving battery and minimizing resource usage for optimized functionality.
-
-- **Extreme**:
-  
-  > Max out frequencys CPU, GPU power levels for maximum performance during gameplay.
-
 ## Requirements:
 
 - Magisk 20.0+
