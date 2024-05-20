@@ -26,7 +26,7 @@
 
 ## Introduction:
 
-Android Tweaker is a powerful module that optimizes your Android device's kernel and RAM for a perfect balance between performance and battery life. Users can apply recommended settings to enhance multitasking, memory management, and gaming experience while extending battery life. The module supports EAS/HMP kernels, monolithic/hybrid architectures, and provides a simple optimization solution for all Android devices.
+<h4>Android Tweaker is a powerful module that optimizes your Android device's kernel and RAM for a perfect balance between performance and battery life. Users can apply recommended settings to enhance multitasking, memory management, and gaming experience while extending battery life. The module supports EAS/HMP kernels, monolithic/hybrid architectures, and provides a simple optimization solution for all Android devices.</h4>
 
 ## Requirements:
 
@@ -63,8 +63,7 @@ No risk of any bootloop, bricks!
   Made with ❤️ for the Android community, Give start to repo if you like my project.
 </p>
 
-```bash
-MIT License
-
+```copy
+MIT 
 Copyright (c) 2024 #!/Harsh.
 ```
