@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://t.me/AndroidTweaker">
-    <img src="https://github.com/C0d3h01/AndroidTweaker/blob/master/.img/android.jpg" alt="Android Tweaker" width="200">
-  </a>
-</p>
-
 <h1 align="center">Android Tweaker</h1>
 
 <p align="center">
@@ -12,11 +6,13 @@
 
 <p align="center">
   <a href="https://t.me/Android Tweaker">
-    <img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" alt="Join Telegram Channel">
+    <img src="https://img.shields.io/badge/Join-Telegram%20Channel-white.svg?logo=Telegram" alt="Telegram Channel">
   </a>
+  <br>
   <a href="https://github.com/c0d3h01/AndroidTweaker/releases/latest">
     <img src="https://img.shields.io/github/v/release/c0d3h01/AndroidTweaker?color=brightgreen&label=Latest%20Release" alt="Latest Release">
   </a>
+  <br>
   <a href="https://github.com/c0d3h01/AndroidTweaker/stargazers">
     <img src="https://img.shields.io/github/stars/c0d3h01/AndroidTweaker.svg?style=flat&label=Stars" alt="Stars">
   </a>
@@ -26,7 +22,7 @@
 
 ## Introduction:
 
-<h4>Android Tweaker is a powerful module that optimizes your Android device's kernel and RAM for a perfect balance between performance and battery life. Users can apply recommended settings to enhance multitasking, memory management, and gaming experience while extending battery life. The module supports EAS/HMP kernels, monolithic/hybrid architectures, and provides a simple optimization solution for all Android devices.</h4>
+<p>Android Tweaker is a powerful module that optimizes your Android device's kernel and RAM for a perfect balance between performance and battery life. Users can apply recommended settings to enhance multitasking, memory management, and gaming experience while extending battery life. The module supports EAS/HMP kernels, monolithic/hybrid architectures, and provides a simple optimization solution for all Android devices.</p>
 
 ## Requirements:
 
