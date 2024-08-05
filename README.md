@@ -49,7 +49,7 @@ No risk of any bootloop, bricks!
 
 ## Credits:
 
-- **Android Tweaker Developer**: [devhaarshal](https://t.me/c0d3h01)
+- **Android Tweaker Developer**: [c0d3h01](https://t.me/c0d3h01)
 - **Spectrum Source**: [frap129](https://github.com/frap129)
 - **MOdule template by**: [MMT-EXTENDED](https://github.com/Zackptg5/MMT-Extended)
 - **Magisk Developer**: [Topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
