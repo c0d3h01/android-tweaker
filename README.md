@@ -4,9 +4,6 @@
   <strong> Optimize your Android device for peak performance and battery life.</strong>
 </p>
 
-
-### "There isn't any official Telegram channel! (Someone stole the username!)"
-
 ## Introduction -
 
 **Android Tweaker is a powerful module that optimizes your Android device's kernel and RAM for a perfect balance between performance and battery life. Users can apply recommended settings to enhance multitasking, memory management, and gaming experience while extending battery life. The module supports EAS/HMP kernels, monolithic/hybrid architectures, and provides a simple optimization solution for all Android devices.**
@@ -19,7 +16,7 @@
 
 ## Compatibility -
 
-Compatible with all ROMs, kernels, and processors. (UNIVERSAL)
+Compatible with all ROMs, kernels, and processors. (Universal devices)
 
 ## Installation -
 
@@ -37,8 +34,10 @@ No risk of any bootloop, bricks!
 
 - **Android Tweaker Developer**: [c0d3h01](https://t.me/c0d3h01)
 - **Spectrum Source**: [frap129](https://github.com/frap129)
-- **MOdule template by**: [MMT-EXTENDED](https://github.com/Zackptg5/MMT-Extended)
+- **Module Template by**: [MMT-EXTENDED](https://github.com/Zackptg5/MMT-Extended)
 - **Magisk Developer**: [Topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+
+### "There isn't any official Telegram channel! (Someone stole the username!)"
 
 ---
 
